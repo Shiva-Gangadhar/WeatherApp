@@ -24,3 +24,10 @@ devices.
 - Gradle
 - Retorfit
 - MVVM architecture
+
+## Usage
+
+- Open the app.
+- Enter the name of the city you wish to get weather information for.
+- View the detailed weather forecast for the next 6 days in 3-hour intervals.
+- Enjoy the dynamic backgrounds that reflect the current weather conditions.
